@@ -1,0 +1,4 @@
+First text file for Git flow
+
+This is my change for this file
+
